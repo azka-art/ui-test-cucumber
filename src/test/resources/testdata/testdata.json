@@ -1,0 +1,24 @@
+{
+  "users": {
+    "standard": {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    },
+    "locked": {
+      "username": "locked_out_user",
+      "password": "secret_sauce"
+    },
+    "admin": {
+      "username": "admin@example.com",
+      "password": "Admin123"
+    }
+  },
+  "testData": {
+    "products": ["Product 1", "Product 2", "Product 3"],
+    "cardDetails": {
+      "number": "4111111111111111",
+      "expiry": "12/25",
+      "cvv": "123"
+    }
+  }
+}
